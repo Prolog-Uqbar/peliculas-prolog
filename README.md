@@ -1,7 +1,9 @@
 
+![films](./images/film.jpg)
+
 ## Películas
 
-![films](./images/film.jpg)
+[![Build Status](https://travis-ci.com/uqbar-project/peliculas-prolog.svg?branch=master)](https://travis-ci.com/uqbar-project/peliculas-prolog)
 
 Ejercicio de modelado de películas, clase introductoria del paradigma lógico.
 
