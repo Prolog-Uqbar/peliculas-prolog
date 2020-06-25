@@ -22,3 +22,11 @@ ganoElOscar(birdman).
 suertude(Persona) :-
   actuo(Persona, Pelicula) ,
   ganoElOscar(Pelicula).
+
+
+:- begin_tests(peliculas).
+
+  test(consultaIndividualFuncionaOk, nondet):-
+    actuo(leoDiCaprio, onceUponATimeInHollywood).
+
+:- end_tests(peliculas).
