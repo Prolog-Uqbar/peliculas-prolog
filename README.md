@@ -11,10 +11,16 @@ Ejercicio de modelado de películas, clase introductoria del paradigma lógico.
 
 ## Requerimientos a resolver
 
+### Primera parte
+
 - si Leonardo Di Caprio actuó en “Once upon a time in Hollywood”
 - en qué películas actuó Leo Di Caprio
 - quiénes actuaron en “Once upon a time in Hollywood”
 - ¿hizo alguna película Lorraine Bracco?
+
+### Segunda parte
+
+Determinar un **suertude/1**, la persona que actuó en una película que ganó un Oscar.
 
 ## Conceptos que aparecen
 
