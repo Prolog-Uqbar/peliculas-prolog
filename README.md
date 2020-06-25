@@ -3,7 +3,7 @@
 
 ## Películas
 
-[![Build Status](https://travis-ci.com/uqbar-project/peliculas-prolog.svg?branch=master)](https://travis-ci.com/uqbar-project/peliculas-prolog)
+[![Build Status](https://travis-ci.com/uqbar-project/peliculas-prolog.svg?branch=master&other=1)](https://travis-ci.com/uqbar-project/peliculas-prolog)
 
 Ejercicio de modelado de películas, clase introductoria del paradigma lógico.
 
